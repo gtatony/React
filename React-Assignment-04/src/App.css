@@ -1,0 +1,21 @@
+form{
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+.error-style{
+    color: red;
+    margin: 0;
+}
+nav{
+    display: flex;
+    gap: 1rem;
+}
+table, th, td {
+    border: 1px solid;
+  }
+  .space{
+    padding-top: 20px;
+  }
